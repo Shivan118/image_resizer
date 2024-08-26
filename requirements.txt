@@ -1,0 +1,7 @@
+Flask>=2.0.0
+Pillow>=8.0.0
+pytest>=6.0.0
+setuptools
+wheel
+twine
+-e .
